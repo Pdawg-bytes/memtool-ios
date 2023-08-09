@@ -8,8 +8,8 @@ To build, either use Xcode on macOS, or clang on Linux. Make sure you build ccto
 Place the binary anywhere on your device, preferably somewhere in the PATH. Then just run `memtool`! For commands, run `memtool --help`.
 
 # Screenshots
-![image](https://github.com/Pdawg-bytes/memtool-ios/assets/83825746/1727c70e-19e9-458f-9b2a-7d3332091ca6)
+![image](https://github.com/Pdawg-bytes/memtool-ios/assets/83825746/49ce1fa8-0a04-4b88-8277-a4288dfee096)
 <br/>
-![image](https://github.com/Pdawg-bytes/memtool-ios/assets/83825746/450b1627-e9d4-49ba-91d4-032c64575603)
+![image](https://github.com/Pdawg-bytes/memtool-ios/assets/83825746/bbd592b8-65fc-4be9-a332-e8d8da33c8a7)
 <br/>
-![image](https://github.com/Pdawg-bytes/memtool-ios/assets/83825746/0627e27e-d430-4bf5-a444-5f82d0e42060)
+![image](https://github.com/Pdawg-bytes/memtool-ios/assets/83825746/908f414d-171d-4ff5-95a1-00d1ec33d1af)
